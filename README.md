@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saihemanthn7
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python and react and some scripting languages
+- 🌱 I’m currently learning python,react and some scripting languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
