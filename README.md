@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saihemanthn7
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python,react and some scripting languages
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning python,Django, PowerBi, Tablaeu
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 madhunayani12@gmail.com
 
 <!---
 saihemanthn7/saihemanthn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
